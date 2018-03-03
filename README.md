@@ -1,2 +1,2 @@
-# phoice-core
-core for building voice applications with phoice
+# phoice
+Build voice applications with phoice and PHP
